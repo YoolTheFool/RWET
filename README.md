@@ -12,6 +12,7 @@ I'm taking a class at cinema studies here at Tisch, and last week we saw the fil
 At last minute, I decided to transcribe the dialogs between the two main charaters.
 Here I decided to do the first dialouges as dry as I can, in order to emphasize the scenary in the last one.
 It got me to think - Does describing scenary counts as transcribig? Is representing the settings and physical reactions a part of the transcriber's roll? I don't know. sometime it has no meaning and sometimes it's crucial. 
+https://www.youtube.com/watch?v=Zmwu26X9vXk&t=418s
 
 In the middle, I tried to transcribe an interview with George Harrison in 1971. I realized that transcribing
 a real conversation is much harder then transcribing a scripted monolouge/dialogue. In the interview or in a more realistic conversation there are a lot of overlaping sentences, phonetic expressions, and unintelligable phrases. For this transcription task the denaturalization format would be more suitable, but is much harder to preform. In some cases when I was trying to figure out what George is saying, since his so quiet, I just filled in words that I thought he would say. That gives out his humbling cinical nature. That made me feel really powerfull.
