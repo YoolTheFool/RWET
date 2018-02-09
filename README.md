@@ -28,7 +28,10 @@ Tell him I am...
 (an important anacdote - this poem is supoose to be read in a loop).
 
 There is something very powerful in a "last message". It is very hard to imagine the last words of a person as a poem.
-My poem, off course, has a Hollywood like feel to it which make it a little cyinical. I decided not to write stuff that will sound like a joke, but rather be more solemn. 
+My poem, off course, has a Hollywood like feel to it which make it a little cyinical. I decided not to write stuff that will sound like a joke, but rather be more solemn.
+
+![screen shot 2018-02-09 at 11 41 46](https://user-images.githubusercontent.com/31703048/36039238-e9ec16dc-0d8f-11e8-955b-efd3734d995d.png)
+
 
 
 
