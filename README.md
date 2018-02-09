@@ -1,4 +1,38 @@
-# Week #1 Assignment
+# Week #3 Assignment
+## Poetry generator
+
+I call it  "Last transmission".
+I have a wild imagination, this time it involved Sci-Fi scenary.
+The Idea behind this poem generator is to recreate the last communication sequences from a combat ship in distress.
+I chose this subject, or this kind of text because it seems like it's very far from poetry. With calling this a poem, I make the readers see these transmissions in a poetic light. The concept came to me really fast and really intuitively, so it's a bit hard for me to write what I was thinking. Anyway...
+
+I played around with the generators we were given, and I really wanted to make my own simple one.
+The generator is very simple. I made a template of the message and then made 6 lists of the different components.
+The different words are being chosen randomly, and give new details on the scene or the hero's actions. 
+Then I used "print()" and constructed the poem.I decided to give the poem a shape that reminded me of a spaceship. 
+
+I wanted to see how each message delivers a different vibe, or situation. Each situation conjur a different vision of who is the pilot. Is he a hero? a coward? a wierd irrational person? an idealist, or a survivor? Whether he chooses to be able to communicate, use the weapons, come out alive and see the next day, etc.
+At first I chose words that implied that the pilot is a man (by accident). Then I modify them to be also as if the pilot is a woman. 
+
+I feel like there is nothing smart about my generator and I would very like to try and make it more interesting. Like making the pilot totally irrational and make the words correlate to each other.
+
+After I did that I remembered a famous Holocaust poem I learned in Highschool, written by Hebrew writer Dan Pagis:
+
+Here in this carload
+I Eve
+Am with my son Abel
+If you see my firstborn son
+Cain son of Man
+Tell him I am...
+
+(an important anacdote - this poem is supoose to be read in a loop).
+
+There is something very powerful in a "last message". It is very hard to imagine the last words of a person as a poem.
+My poem, off course, has a Hollywood like feel to it which make it a little cyinical. I decided not to write stuff that will sound like a joke, but rather be more solemn. 
+
+
+
+# Week #2 Assignment
 ## Transcription
 
 One of my favorite scenes in films is the scene from Stanley Kubrick's "Full Metal Jacket".
