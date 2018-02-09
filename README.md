@@ -9,7 +9,7 @@ I chose this subject, or this kind of text because it seems like it's very far f
 I played around with the generators we were given, and I really wanted to make my own simple one.
 The generator is very simple. I made a template of the message and then made 6 lists of the different components.
 The different words are being chosen randomly, and give new details on the scene or the hero's actions. 
-Then I used "print()" and constructed the poem.I decided to give the poem a shape that reminded me of a spaceship. 
+Then I used "print()" and constructed the poem. I decided to give the poem a shape that reminded me of a spaceship from the side. 
 
 I wanted to see how each message delivers a different vibe, or situation. Each situation conjur a different vision of who is the pilot. Is he a hero? a coward? a wierd irrational person? an idealist, or a survivor? Whether he chooses to be able to communicate, use the weapons, come out alive and see the next day, etc.
 At first I chose words that implied that the pilot is a man (by accident). Then I modify them to be also as if the pilot is a woman. 
