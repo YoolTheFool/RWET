@@ -34,6 +34,9 @@ My poem, off course, has a Hollywood like feel to it which make it a little cyin
 
 
 
+![screen shot 2018-02-09 at 11 40 35](https://user-images.githubusercontent.com/31703048/36039499-a831f648-0d90-11e8-9258-e2e2b61bb3d5.png)
+
+
 
 # Week #2 Assignment
 ## Transcription
