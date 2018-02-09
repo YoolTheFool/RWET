@@ -1,4 +1,4 @@
-# Week #3 Assignment
+#  Assignment #2
 ## Poetry generator
 
 I call it  "Last transmission".
