@@ -15,7 +15,7 @@ Randomness is a catalist for curiosity. It's a very efficient way to let the lis
 Here I feel I have a crucial role in the work. Knowing that even the author can be surprised from his work is a very powerful thought.  
 I think that the awareness of randomness is is also playing a role in the game. If I was to read a poem, that crushed my soul into bits and pieces and made me cry, and then I realize that it was randomly made by a machine, I would ask some serious questions about the world.
 
-I believe, that the procedural technique and the choice of source are the paint brush and the colors we are given as readers. For example - the resulution and the relations between the words in the text can determine the nature and the abstraction of the poem. The farther the connections are, the more mystery we get. The splising mechanism paves the layout of the poem.
+I believe, that the procedural technique and the choice of source are the paint brush and the colors we are given as readers. For example - the resolution and the relations between the words in the text can determine the nature and the abstraction of the poem. The farther the connections are, the more mystery we get. The splising mechanism paves the layout of the poem.
 It creates a path for us to walk through. To walk in the general places that the poet wanted us to walk.  
 
 #  Assignment #2
