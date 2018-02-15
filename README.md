@@ -1,3 +1,23 @@
+# Reading response
+## Randomness, Juxtaposition, Surprise
+
+#### Juxtaposition
+When I read the first example in "Start with poetry" and the comparison between the two pieces, I had a thought about an element we talked about in another class("Nothing-creating illusions"). In "Nothing" we talked about vision and how our brains are working to complete an outline of an object. We saw some examples of fragments of an image or an object, and we were able to materialize and figure what exactly are we looking at. The important idea of subtracting as much as possible without loosing the meaning realy spoke to me. I tend to think, that the less you present, the more interactive your piece can be.
+"Shaving" the transitions and the perfectly-makes-sense elements, gives the reader more space to be immersed in the search for meaning. I didn't notice this method (or rather couldn't point it out) so far, and now that I do, I realize how powerful it is.
+
+On the other hand, it's a dangerous tool. Like it is said in the book : "Eventually, though, the gap would get too big to cross". To my opinion, let's say in visual arts, the fine line between non-sense and sense is drawn by the viewer. Here I feel that linguistic art has more restrictions, has more visibility to define the border. The logic and the context have a preety clear threshold to the non-sense part. Well, of course that Lewis Carroll's poems are mind-blowing. I simply believe that the rules of linguistics are more clear and the emotions you feel when you encounter a "gap" you can't cross in a poem, are more intense. Probably in a bad way. Maybe it's only me.
+
+#### Randomness
+The question of randomness being a "juxtaposition-generator" brought up a small philosophical thought. I was thinking of order and disorder, and their relations. Is it a spectrum? is there such a thing a little disorder? Or maybe it's binary? 
+0 for disorder, 1 for order? of course these questions are related to the point-of-view, related to the judgemental nature of the viewer/reader. I personally feel that disorder is a matter of scale. The small systems must be in chaos so the large picture would be of meaning and stable in a sort of way.  
+
+Randomness is a catalist for curiosity. It's a very efficient way to let the listener/reader/viewer engage his deep thinking and emotions. When I see a random pattern of any kind, I'm just eager to draw lines between the dots and let my brain do the rest. I like the fact that I'm not carefully approaching a work of art that someone already made the thinking for me.
+Here I feel I have a crucial role in the work. Knowing that even the author can be surprised from his work is a very powerful thought.  
+I think that the awareness of randomness is is also playing a role in the game. If I was to read a poem, that crushed my soul into bits and pieces and made me cry, and then I realize that it was randomly made by a machine, I would ask some serious questions about the world.
+
+I believe, that the procedural technique and the choice of source are the paint brush and the colors we are given as readers. For example - the resulution and the relations between the words in the text can determine the nature and the abstraction of the poem. The farther the connections are, the more mystery we get. The splising mechanism paves the layout of the poem.
+It creates a path for us to walk through. To walk in the general places that the poet wanted us to walk.  
+
 #  Assignment #2
 ## Poetry generator
 
