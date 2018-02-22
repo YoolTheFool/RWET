@@ -1,6 +1,6 @@
 #  Assignment #3
 ## Poetry Masher
-# The process:
+#### The process:
 
 # Reading response
 ## Randomness, Juxtaposition, Surprise
