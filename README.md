@@ -1,6 +1,27 @@
 #  Assignment #3
 ## Poetry Masher
-#### The process:
+In this assignment we were asked to create a poem out of two text files, by using different list comprehension and other elements we learned in class.
+
+The concept :
+I wanted to create a piece that has a repeatable structure. A poem that will have a sense of rolling or rythem. So I decided to make a repetitive word after every line that will guve the poem some movement and emphasis.
+
+
+The process :
+
+the main frame of manipulating a text file is to turn it into a list. In my example I started by creating a list of lines and then I drilled a little more and used single words.
+I took two poems, and chose two random lines from each one.
+Then I chose a random word from each line and repeated that for three times. On the third time I added another phrase or adjective that will give an extra twist for the repeated word.
+During the work, I played aruond a little with the order of the lines and mashed the chosen words a bit more. 
+In the end I chose a chiastic frame and repeated a word from the last line, after the first line. Then repeated a word from the third line, after the second line, and so on. 
+I just love chiastic structure.
+
+For the extra phrase I chose dark and negative adjectives. For some reason it seemed to give much more interesting results.
+
+I had to deal with a lot of repeating words that weren't fitting the structure. Words like 'the', 'and' , 'of' etc. I guess I could of come-up with a way to leave them out when I choose the repeated words.  
+
+Here it is :
+
+
 
 # Reading response
 ## Randomness, Juxtaposition, Surprise
