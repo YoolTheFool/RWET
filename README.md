@@ -21,6 +21,9 @@ I had to deal with a lot of repeating words that weren't fitting the structure. 
 
 Here it is :
 
+![verymashed1](https://user-images.githubusercontent.com/31703048/36570915-4fe41d32-1802-11e8-8108-952afbc1f49a.png)
+
+
 
 
 # Reading response
