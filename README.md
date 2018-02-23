@@ -22,11 +22,17 @@ I had to deal with a lot of repeating words that weren't fitting the structure. 
 
 Here it is :
 
+![screen shot 2018-02-23 at 12 20 44](https://user-images.githubusercontent.com/31703048/36607255-12f3629c-1894-11e8-8a6c-c77b7c3d14de.png)
+
+
+
 ![verymashed1](https://user-images.githubusercontent.com/31703048/36570915-4fe41d32-1802-11e8-8108-952afbc1f49a.png)
+
 
 A different structure that uses a word from the previous line (not chiastic):
 
 ![mashed2](https://user-images.githubusercontent.com/31703048/36571011-b7c0bd52-1802-11e8-9c90-a012560bb7ef.png)
+
 
 A good short one :
 
