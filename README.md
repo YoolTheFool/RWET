@@ -3,6 +3,7 @@
 In this assignment we were asked to create a poem out of two text files, by using different list comprehension and other elements we learned in class.
 
 The concept :
+
 I wanted to create a piece that has a repeatable structure. A poem that will have a sense of rolling or rythem. So I decided to make a repetitive word after every line that will guve the poem some movement and emphasis.
 
 
@@ -27,7 +28,10 @@ A different structure that uses a word from the previous line (not chiastic):
 
 ![mashed2](https://user-images.githubusercontent.com/31703048/36571011-b7c0bd52-1802-11e8-9c90-a012560bb7ef.png)
 
-Agood short one : 
+A good short one :
+
+![mashedshort1](https://user-images.githubusercontent.com/31703048/36571084-0e74de44-1803-11e8-8544-0e6935e03787.png)
+
 
 
 
