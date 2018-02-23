@@ -23,6 +23,12 @@ Here it is :
 
 ![verymashed1](https://user-images.githubusercontent.com/31703048/36570915-4fe41d32-1802-11e8-8108-952afbc1f49a.png)
 
+A different structure that uses a word from the previous line (not chiastic):
+
+![mashed2](https://user-images.githubusercontent.com/31703048/36571011-b7c0bd52-1802-11e8-9c90-a012560bb7ef.png)
+
+Agood short one : 
+
 
 
 
