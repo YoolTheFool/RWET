@@ -11,7 +11,7 @@ The process :
 
 the main frame of manipulating a text file is to turn it into a list. In my example I started by creating a list of lines and then I drilled a little more and used single words.
 I took two poems, and chose two random lines from each one.
-Then I chose a random word from each line and repeated that for three times. On the third time I added another phrase or adjective that will give an extra twist for the repeated word.
+Then I chose a random word from each line and repeated that for three times. On the third time I added another phrase or adjective that gives an extra twist for the repeated word.
 During the work, I played aruond a little with the order of the lines and mashed the chosen words a bit more. 
 In the end I chose a chiastic frame and repeated a word from the last line, after the first line. Then repeated a word from the third line, after the second line, and so on. 
 I just love chiastic structure.
