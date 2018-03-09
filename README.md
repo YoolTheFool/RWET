@@ -29,6 +29,8 @@ These ones are better - not using Tracery :
 
 ![screen shot 2018-03-09 at 14 08 33](https://user-images.githubusercontent.com/31703048/37225082-7f08a342-23a3-11e8-8e47-1d521d370f4d.png)
 
+![screen shot 2018-03-09 at 15 28 39](https://user-images.githubusercontent.com/31703048/37228446-ad5e8378-23ae-11e8-83be-119bfcf5bfee.png)
+
 
 A good short : 
 
