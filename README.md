@@ -38,7 +38,7 @@ A good short :
 
 
 generally I feel that the form delivers what it promisses - a continoues stereotype mess in the animal kingdom (sort of).
-My coice of source text definitely give the poem a comic vibe to it. I enjoy the playfulness and cynicism of the poem, but I also feel the message is being lightly noticed.
+My choice of source text definitely give the poem a comic vibe to it. I enjoy the playfulness and cynicism of the poem, but I also feel the message is being lightly noticed.
 
 
  
