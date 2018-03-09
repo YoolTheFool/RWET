@@ -3,7 +3,7 @@
 
 In this assignment we were asked to create a new poetic form using the tools we discussed in class (tracery, dictionaries,etc). The idea of a poetic form is a phenomenon I haven't really thought about in my few encounters with poetry. I realized that a structure of a poem is an additional face for a poetic or even a literature piece. A side that is no less important than the content or language. 
 
-## 
+## Sateen Lemurs
 Like the last assignments, I started by scribbling on a piece of paper what I would like to talk about. Then I wrote down "metallic rabbits". I liked the combination of living organisms with different materials and elements. I played around with the idea of somehow expressing the hard time we humans give the rest of the animal kingdom and maybe turn the animals against humans. But then I started thinking of the structure or the form I want to give the poem. Again, as the previous exrcise, I wanted to create a palindrome of some sort, but now I wanted to add more flow to the structure and create a chain of links that talk to each other. A repeatable or even a neverending cycle.
 I have to be honest, I'm not sure that this is considered as a new poetic form, but I feel that there is a "body" here, with rules other than "which source text am I using" 
 When I combined all these thoughts of the structure and the content, I decided to make a poem that expresses the notion of a never ending stereotype cycle of animal relations. Sometimes the relations has a fascist vibe, and sometimes it feels like love is the air.
