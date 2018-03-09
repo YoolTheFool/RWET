@@ -17,11 +17,17 @@ What I haven't managed to do is to make the "active" animals become th "passive"
 
 Anyway - here are some examples:
 
+The first one is busing "tracery" and the result is not satisfying since the animals don't repeat in the next "link" : 
+
 ![screen shot 2018-03-08 at 23 56 41](https://user-images.githubusercontent.com/31703048/37191414-5991e180-232d-11e8-9233-c6a3e4ae5fa7.png)
 
-![screen shot 2018-03-08 at 23 54 17](https://user-images.githubusercontent.com/31703048/37191432-7f064b04-232d-11e8-827a-9008db583bee.png)
+These ones are good - not using Tracery : 
 
-![screen shot 2018-03-08 at 23 53 33](https://user-images.githubusercontent.com/31703048/37191438-921fa280-232d-11e8-954d-b68fe52346d0.png)
+![screen shot 2018-03-09 at 14 07 52](https://user-images.githubusercontent.com/31703048/37225179-c95892f4-23a3-11e8-8483-72bdefb31540.png)
+
+
+![screen shot 2018-03-09 at 14 08 33](https://user-images.githubusercontent.com/31703048/37225082-7f08a342-23a3-11e8-8e47-1d521d370f4d.png)
+
 
 A good short : 
 
