@@ -1,3 +1,40 @@
+#  Assignment #4
+## A new poetic form - Chain links
+
+In this assignment we were asked to create a new poetic form using the tools we discussed in class (tracery, dictionaries,etc). The idea of a poetic form is a phenomenon I haven't really thought about in my few encounters with poetry. I realized that a structure of a poem is an additional face for a poetic or even a literature piece. A side that is no less important than the content or language. 
+
+## 
+Like the last assignments, I started by scribbling on a piece of paper what I would like to talk about. Then I wrote down "metallic rabbits". I liked the combination of living organisms with different materials and elements. I played around with the idea of somehow expressing the hard time we humans give the rest of the animal kingdom and maybe turn the animals against humans. But then I started thinking of the structure or the form I want to give the poem. Again, as the previous exrcise, I wanted to create a palindrome of some sort, but now I wanted to add more flow to the structure and create a chain of links that talk to each other. A repeatable or even a neverending cycle.
+I have to be honest, I'm not sure that this is considered as a new poetic form, but I feel that there is a "body" here, with rules other than "which source text am I using" 
+When I combined all these thoughts of the structure and the content, I decided to make a poem that expresses the notion of a never ending stereotype cycle of animal relations. Sometimes the relations has a fascist vibe, and sometimes it feels like love is the air.
+Either way the relations depend on the material of the animal and not of the animal itself - kind of reverse racism I would say . I was happy and somewhat surprised with what was coming out.
+
+I used a few JSON files from "corpora", and got a little lost inside the 'verb' file. Since I wanted to use pefect tense, i needed the big file which is pretty messy and contains a lot of junk.
+I used 'tracery' to create the poem 'links' but then I got stuck in reusing the same animal and material twice, I turned to Kate Compton through Google and got over the obsticle (see assignment notebook). 
+I wanted each 'link' or poem in the 'for loop' to use different verbs but inside the poem I needed to use the same verb twice- for that (and with the help of Allison) we duplicated the rules-dictionary and took the verbs outside to the for-loop.
+The specific layout of each poem was decided in orde to look like a chain that is being linked with transitions and circular "buts".
+What I haven't managed to do is to make the "active" animals become th "passive" animals in the next poem.
+
+Anyway - here are some examples:
+
+![screen shot 2018-03-08 at 23 56 41](https://user-images.githubusercontent.com/31703048/37191414-5991e180-232d-11e8-9233-c6a3e4ae5fa7.png)
+
+![screen shot 2018-03-08 at 23 54 17](https://user-images.githubusercontent.com/31703048/37191432-7f064b04-232d-11e8-827a-9008db583bee.png)
+
+![screen shot 2018-03-08 at 23 53 33](https://user-images.githubusercontent.com/31703048/37191438-921fa280-232d-11e8-954d-b68fe52346d0.png)
+
+A good short : 
+
+![screen shot 2018-03-08 at 23 58 13](https://user-images.githubusercontent.com/31703048/37191451-b53eba12-232d-11e8-9969-587056dfbd6d.png)
+
+
+generally I feel that if I would manage to make the animals repeat in the next poem, the form will deliver what it promisses - a continoues stereotype mess in the animal kingdom (sort of).
+My coice of source text definitely give the poem a comic vibe to it. I enjoy the playfulness and cynicism of the poem, but I also feel the message is being lightly noticed.
+
+
+ 
+
+
 #  Assignment #3
 ## Poetry Masher
 In this assignment we were asked to create a poem out of two text files, by using different list comprehension and other elements we learned in class.
