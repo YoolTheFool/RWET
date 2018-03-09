@@ -13,15 +13,16 @@ I used a few JSON files from "corpora", and got a little lost inside the 'verb' 
 I used 'tracery' to create the poem 'links' but then I got stuck in reusing the same animal and material twice, I turned to Kate Compton through Google and got over the obsticle (see assignment notebook). 
 I wanted each 'link' or poem in the 'for loop' to use different verbs but inside the poem I needed to use the same verb twice- for that (and with the help of Allison) we duplicated the rules-dictionary and took the verbs outside to the for-loop.
 The specific layout of each poem was decided in orde to look like a chain that is being linked with transitions and circular "buts".
-What I haven't managed to do is to make the "active" animals become th "passive" animals in the next poem.
+What I haven't managed to do with "Tracery" is to make the "active" animals become th "passive" animals in the next poem or "link in the chain".
+I have made another notbook that does not use "Tracery" and managed to make tha chain effect I was looking for.
 
 Anyway - here are some examples:
 
-The first one is busing "tracery" and the result is not satisfying since the animals don't repeat in the next "link" : 
+The first one is using "Tracery" and the result is not satisfying since the animals don't repeat in the next "link" : 
 
 ![screen shot 2018-03-08 at 23 56 41](https://user-images.githubusercontent.com/31703048/37191414-5991e180-232d-11e8-9233-c6a3e4ae5fa7.png)
 
-These ones are good - not using Tracery : 
+These ones are better - not using Tracery : 
 
 ![screen shot 2018-03-09 at 14 07 52](https://user-images.githubusercontent.com/31703048/37225179-c95892f4-23a3-11e8-8483-72bdefb31540.png)
 
@@ -34,7 +35,7 @@ A good short :
 ![screen shot 2018-03-08 at 23 58 13](https://user-images.githubusercontent.com/31703048/37191451-b53eba12-232d-11e8-9969-587056dfbd6d.png)
 
 
-generally I feel that if I would manage to make the animals repeat in the next poem, the form will deliver what it promisses - a continoues stereotype mess in the animal kingdom (sort of).
+generally I feel that the form delivers what it promisses - a continoues stereotype mess in the animal kingdom (sort of).
 My coice of source text definitely give the poem a comic vibe to it. I enjoy the playfulness and cynicism of the poem, but I also feel the message is being lightly noticed.
 
 
