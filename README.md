@@ -3,7 +3,8 @@
 
 Source text = the script of "Star Wars - New Hope"...
 
-To my perspective, this film represents an important form of new mythologies. So, I wanted to use the Hollywood-script-vibe of writing to see if it could be manipulized to poetry.
+To my perspective, this film represents an important form of new mythologies. 
+So, I wanted to use the Hollywood-script-vibe of writing, to see if it could be manipulized to poetry.
 
 To be honest, I'm not very happy with this work...
 
