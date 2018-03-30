@@ -3,6 +3,12 @@
 
 ![screen shot 2018-03-30 at 13 49 12](https://user-images.githubusercontent.com/31703048/38147842-f9700600-3421-11e8-8020-be5dee0deb2d.png)
 
+![screen shot 2018-03-30 at 13 44 22](https://user-images.githubusercontent.com/31703048/38147843-f97df828-3421-11e8-831b-1aa28437c2cf.png)
+![screen shot 2018-03-30 at 12 50 15](https://user-images.githubusercontent.com/31703048/38147844-f994af46-3421-11e8-9c1c-05620c2ad190.png)
+![screen shot 2018-03-30 at 12 49 21](https://user-images.githubusercontent.com/31703048/38147845-f99ed408-3421-11e8-99b3-73f83493fa7c.png)
+![screen shot 2018-03-30 at 12 36 53](https://user-images.githubusercontent.com/31703048/38147846-af9ad1702-3421-11e8-97c8-6c7989ac1e71.png)
+
+
 #  Assignment #4
 ## A new poetic form - Chain links
 
