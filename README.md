@@ -7,8 +7,28 @@ To my perspective, this film represents an important form of new mythologies. So
 
 To be honest, I'm not very happy with this work...
 
-Seeing the wonderful things you 
+Seeing the wonderful things you can do with n-grams got me really excited. But, I felt like I had put myself (literally) inside the Millenium Falcon's cockpit and tried to jump into hyper-space. Like there are a lot of buttons, and flashing gizmos that I don't relly know how to approach.
+
+Eventually I came up with two pieces -  n-gram sentences poem ,and a spaCy generated poem.
+I started with simply copying the functions from the notebooks, and tried to play arround with the structure.
+
+For the n-gram poem, I looked at what are the most common pairs of words, and then I had randomly selected out of the first 50.
+Using those "pairs" I made two generated markov-chained and seperated them with a line. Well, It's not really a poem but I enjoy the subtle-but-not-subtle mess it does to the story.
+
+For the SpaCy - I simply reached into the script and took nouns, verbs, adjectives and adaptors. Then I parsed them into a sentence form that creates a poetic vibe. The outcome surprised me how it sounded traditionally poetic. 
+"Hooded under mechanical death" - beautiful!
+
+The combination of space-battles, stupid dialogues, scenary descriptions, 70's jargon, and a whole lot of "DEATH" - creates a funny twisted poems and some crazy lines.
+
+These are the n-gram :
+
+![screen shot 2018-03-30 at 14 35 39](https://user-images.githubusercontent.com/31703048/38149737-c208ea8a-3429-11e8-9004-fb030172c06c.png)
+
+
 ![screen shot 2018-03-30 at 13 49 12](https://user-images.githubusercontent.com/31703048/38147842-f9700600-3421-11e8-8020-be5dee0deb2d.png)
+
+
+And these are the spaCy :
 
 ![screen shot 2018-03-30 at 13 44 22](https://user-images.githubusercontent.com/31703048/38147843-f97df828-3421-11e8-831b-1aa28437c2cf.png)
 ![screen shot 2018-03-30 at 12 50 15](https://user-images.githubusercontent.com/31703048/38147844-f994af46-3421-11e8-9c1c-05620c2ad190.png)
