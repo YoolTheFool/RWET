@@ -1,6 +1,7 @@
 #  Assignment #5
 ## RNNNGRAMS and spaCy
 
+![screen shot 2018-03-30 at 13 49 12](https://user-images.githubusercontent.com/31703048/38147842-f9700600-3421-11e8-8020-be5dee0deb2d.png)
 
 #  Assignment #4
 ## A new poetic form - Chain links
