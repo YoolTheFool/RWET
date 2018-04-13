@@ -15,6 +15,7 @@ The Process:
 
 I used SpaCy to choose the verbs and the nouns (The important parts of speach) from the randomly-picked sentence.
 for each verb/noun I randomly picked a rhyming word using "Pronouncing" and parsed them all back to the sentence.
+So, the first sentence of each iteration is from Al's presentation and then comes the broken sentence. 
 
 I still have some trouble with the code.
 
