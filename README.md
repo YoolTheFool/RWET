@@ -13,6 +13,9 @@ example 3:
 
 ![screen shot 2018-04-13 at 11 49 53](https://user-images.githubusercontent.com/31703048/38744875-016a55be-3f11-11e8-83c5-b786c1bd7693.png)
 
+example 4:
+
+![screen shot 2018-04-13 at 11 57 17](https://user-images.githubusercontent.com/31703048/38745200-e11f4cb4-3f11-11e8-9330-d877b28c8480.png)
 
 #  Assignment #5
 ## RNNNGRAMS and spaCy
