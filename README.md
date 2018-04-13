@@ -16,6 +16,11 @@ The Process:
 I used SpaCy to choose the verbs and the nouns (The important parts of speach) from the randomly-picked sentence.
 for each verb/noun I randomly picked a rhyming word using "Pronouncing" and parsed them all back to the sentence.
 
+I still have some trouble with the code.
+
+First, for some reason the rhymes that are beeing chosen are super weird and unusual.
+Second, sometimes the cell of the for loop gives me an error that there are no rhymes for a word, and I don't know how to dubug it. I encountered some trouble with the SpaCy types (Tokens) that I couldn't figure out how to transform them to be able to do regular expressions with them. So I don't know if I need to do something to the text before I'm "SpaCy"ing it or maybe I'm using "Pronouncing" wrong. Like, I figured out that "pronoiuncing.rhymes" doesn't work on upper-case words. So, for some reason I was having trouble manipulatig the words to a lower case without changing the SpaCy tokens. Perhaps I need to go through SpaCy again...
+
 
 
 
