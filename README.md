@@ -1,6 +1,17 @@
 #  Assignment #6
 ## A hearing problem
 
+For my final project I would like to investigate miscommunication, and take a dialogue to a spiralling cheos of meaning.
+I want to create a "Telephone" game. But instead of phonetic misundertanding I want to make it an exponential misinterperting chaos. I'm intrigued by the notion of how miscommunication is the cause of 90% of our conflicts and our discourse with our surrounding. Maybe there a way I can take miscommunication to a more empowering and positive place.  
+
+For this assignment I wanted to create a regular "Telephone" game with phonetic manipulation...
+
+THE CONCEPT:
+As part of my research for a different project I looked into the trancription of "Inconvenient Truth" - the famous environmental presentation of Al Gore. 
+
+I imagined two senior citizens sitting in the audience (kind of like Statler and Waldorf from the Muppet Show), and constantly confusing each other by mishearing what the former senator says.   
+
+
 example 1:
 
 ![screen shot 2018-04-13 at 11 45 39](https://user-images.githubusercontent.com/31703048/38744877-01897aa2-3f11-11e8-83b9-0f3b3432c709.png)
