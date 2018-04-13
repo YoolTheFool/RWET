@@ -1,3 +1,18 @@
+#  Assignment #6
+## A hearing problem
+
+![screen shot 2018-04-13 at 10 48 03](https://user-images.githubusercontent.com/31703048/38744878-019bd2ce-3f11-11e8-806a-e1f1a9d09e6e.png)
+
+
+![screen shot 2018-04-13 at 11 45 39](https://user-images.githubusercontent.com/31703048/38744877-01897aa2-3f11-11e8-83b9-0f3b3432c709.png)
+
+
+![screen shot 2018-04-13 at 11 47 33](https://user-images.githubusercontent.com/31703048/38744876-01787194-3f11-11e8-9675-9218535ebf3f.png)
+
+
+![screen shot 2018-04-13 at 11 49 53](https://user-images.githubusercontent.com/31703048/38744875-016a55be-3f11-11e8-83c5-b786c1bd7693.png)
+
+
 #  Assignment #5
 ## RNNNGRAMS and spaCy
 
