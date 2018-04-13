@@ -6,10 +6,18 @@ I want to create a "Telephone" game. But instead of phonetic misundertanding I w
 
 For this assignment I wanted to create a regular "Telephone" game with phonetic manipulation...
 
-THE CONCEPT:
-As part of my research for a different project I looked into the trancription of "Inconvenient Truth" - the famous environmental presentation of Al Gore. 
+The Concept:
 
-I imagined two senior citizens sitting in the audience (kind of like Statler and Waldorf from the Muppet Show), and constantly confusing each other by mishearing what the former senator says.   
+As part of my research for a different project I looked into the trancription of "Inconvenient Truth" - the famous environmental presentation of Al Gore. 
+I imagined two senior citizens sitting in the audience (kind of like Statler and Waldorf from the Muppet Show), and constantly confusing each other by mishearing what the former senator says. 
+
+The Process:
+
+I used SpaCy to choose the verbs and the nouns (The important parts of speach) from the randomly-picked sentence.
+for each verb/noun I randomly picked a rhyming word using "Pronouncing" and parsed them all back to the sentence.
+
+
+
 
 
 example 1:
