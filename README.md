@@ -1,7 +1,7 @@
 #  Assignment #6
 ## A hearing problem
 
-For my final project I would like to investigate miscommunication, and take a dialogue to a spiralling cheos of meaning.
+For my final project I would like to investigate miscommunication, and take a dialogue to a spiralling chaos of meaning.
 I want to create a "Telephone" game. But instead of phonetic misundertanding I want to make it an exponential misinterperting chaos. I'm intrigued by the notion of how miscommunication is the cause of 90% of our conflicts and our discourse with our surrounding. Maybe there a way I can take miscommunication to a more empowering and positive place.  
 
 For this assignment I wanted to create a regular "Telephone" game with phonetic manipulation...
