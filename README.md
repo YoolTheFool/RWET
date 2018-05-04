@@ -1,3 +1,11 @@
+# Final Assignment
+## "QWERTY be like dat"
+
+Keyboard layout - who? what? and also, why? 
+One of the most common ways of communication in the past 150 years of typing. We talk with it, we learn with it, we play on it
+hell, we even let it drink coffee every once in a while. This image of a keyboard, is criminally trivial to us, and so weird and mysterious. 
+For the final assignment
+
 #  Assignment #6
 ## A hearing problem
 
