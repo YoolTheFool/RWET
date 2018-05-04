@@ -3,9 +3,11 @@
 
 Keyboard layout - who? what? and also, why? 
 One of the most common ways of communication in the past 150 years of typing. We talk with it, we learn with it, we play on it.
-Hell, we even let it drink coffee every once in a while. This image of a keyboard, is criminally trivial to us, and so weird and mysterious. Time to break the mystery - The QWERTY leyout was designed by CHristpher Sholes. The design took the most common two letters combination in English and placed each letter as far as possible from each other. Why? so the type writer won't get jammed, since when typing two close characters they could get stuck... hmmmm.
+Hell, we even let it drink coffee every once in a while. This image of a keyboard, is criminally trivial to us, and so weird and mysterious. Time to break the mystery - The QWERTY leyout was designed by Christpher Sholes. The design took the most common two letters combination in English and placed each letter as far as possible from each other. Why? so the type writer won't get jammed, since when typing two close characters they could get stuck... hmmmm.
 
 Anyway, I dare you to stare at this and not freak-out:
+
+![900px-kb_united_states_dvorak svg](https://user-images.githubusercontent.com/31703048/39634329-82fdd2c2-4f88-11e8-9954-2927c6249c5a.png)
 
 
 
@@ -28,6 +30,8 @@ The output text was a bit weird, so I did some cleaning, such as removing any "b
 When it comes to reading, I really wanted to make the performance a "here and now" and not choose the best lines or the ones theat makes most sense. I feel that this way, I can truly represent the live output of QWERTY "keyboard playing".
 
 Here's an example of an output :
+
+![screen shot 2018-05-02 at 15 57 05](https://user-images.githubusercontent.com/31703048/39634393-b2725dc0-4f88-11e8-9061-6a6030f644ad.png)
 
 
 
