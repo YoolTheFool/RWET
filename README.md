@@ -13,8 +13,8 @@ Anyway, I dare you to stare at this and not freak-out:
 
 
 
-For the final assignment I decided to try and show what can this bizzare phenomenon has to say through copmutational poetry.
-What does our fingers and muscles have to say when they're banging on the QWERTY keyboard.
+For the final assignment I decided to try and show what does this bizzare phenomenon has to say through copmutational poetry.
+What do our fingers and muscles have to say when they're banging on the QWERTY keyboard.
 
 ### The Process :
 
