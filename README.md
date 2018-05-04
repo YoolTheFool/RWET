@@ -1,5 +1,5 @@
 # Final Assignment
-## "QWERTY be like dat"
+## "LORD O'QWERTY"
 
 Keyboard layout - who? what? and also, why? 
 One of the most common ways of communication in the past 150 years of typing. We talk with it, we learn with it, we play on it.
