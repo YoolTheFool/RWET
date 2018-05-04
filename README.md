@@ -3,8 +3,34 @@
 
 Keyboard layout - who? what? and also, why? 
 One of the most common ways of communication in the past 150 years of typing. We talk with it, we learn with it, we play on it
-hell, we even let it drink coffee every once in a while. This image of a keyboard, is criminally trivial to us, and so weird and mysterious. 
-For the final assignment
+hell, we even let it drink coffee every once in a while. This image of a keyboard, is criminally trivial to us, and so weird and mysterious. Time to break the mystery - The QWERTY leyout was designed by CHristpher Sholes. The design took the most common two letters combination in English and placed each letter as far as possible from each other. Why? so the type writer won't get jammed, since when typing two close characters they could get stuck... hmmmm.
+
+Anyway, I dare you to stare at this and not freak-out:
+
+
+
+For the final assignment I decided to try and show what can this bizzare phenomenon has to say through copmutational poetry.
+What does our fingers and muscles have to say when they're banging on the QWERTY keyboard.
+
+### The Process :
+
+I wanted to create a corpus of gibberish that is made out of people going-berserk on a computer keyboard. So, I asked ITP students to give me their own gibberish, and I parsed it into one big corpus (lots of j's and f's there).
+
+Then I took this corpus and trained the "textgenrnn" training model to create my own gibberish model. 
+Now - in order to make the output interesting I decided to use another source text that I'll infuse into the gibberish model, thous turning it to a somewhat readable text. For this matter I was thinking, which piece can be Ironically merge into a giant pile of nonsense. I came up with King David's Psalms. As one of the oldest writen poetry, the Psalms has a distinct style, and an iteresting vocabulary. 
+
+The algorythem:
+The purpose here was to somehow create an arc to the output by starting with gibberish text and through time make the text more meaningful. The output is generated from the original gibberish that is made out of ITP's keyboard mess.
+
+I'm creating a new "live" gibberish text, and clean it from all the numbers and punctuations, dividing it randomaly into words, then training the gibberish model with it. I then choose random lines from the Psalms, and gradually infuse the psalms text by training the gibberish model with it. I iterate that as much as the original live-gibberish text, thous making the model more Psalmy. Now, I have decided to make things a little more weird. Every iteration of training the model with the Psalms text, I'm also runing it through semantic vector replacement function. Each iteration I'm increasing the "nuttiness" and the "chance" and making the output lines more twisted and deformed. 
+The output text was a bit weird, so I did some cleaning, such as removing any "bad word" (the, a, as, with, etc) from the ends of sentences, and tried to make the lines smaller.
+
+When it comes to reading, I really wanted to make the performance a "here and now" and not choose the best lines or the ones theat makes most sense. I feel that this way, I can truly represent the live output of QWERTY "keyboard playing".
+
+Here's an example of an output :
+
+
+
 
 #  Assignment #6
 ## A hearing problem
